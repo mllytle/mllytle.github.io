@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%61%64%69%73%6F%6E_%6C%79%74%6C%65@%6D%69%6E%65.%65%64%75", "_blank");
+          window.open("mailto:%6D%61%64%69%73%6F%6E_%6C%79%74%6C%65@%6D%69%6E%65%73.%65%64%75", "_blank");
         },
       },{
       id: 'light-theme',
