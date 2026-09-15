@@ -39,4 +39,4 @@ Here are some useful links:
 * [Online Encylopedia of Integer Sequences](https://oeis.org/)
 * [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
 * [Window Swap](https://www.window-swap.com/Window)
-
+* [Random Wikipedia Article (try your luck!)](https://en.wikipedia.org/wiki/Special:Random)
