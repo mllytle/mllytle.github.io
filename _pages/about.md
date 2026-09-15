@@ -34,3 +34,6 @@ latest_posts:
 ---
 I like math and rocks.
 
+Here are some useful links:
+* [Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+
