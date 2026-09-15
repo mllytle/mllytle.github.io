@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Janus Vesicles
-description: COMING SOON
-img: assets/img/rhino.jpg
+description: in progress
+img: 
 importance: 2
 category: work
 giscus_comments: true

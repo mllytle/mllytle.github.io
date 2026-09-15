@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fluctuation Membranes
-description: COMING SOON
-img: assets/img/rhino.jpg
+title: Fluctuating Membranes
+description: in progress
+img: 
 # redirect: https://unsplash.com
 importance: 3
 category: work

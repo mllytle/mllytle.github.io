@@ -2,7 +2,7 @@
 layout: page
 title: Climbing Service
 description: coming soon
-img: assets/img/rhino.jpg
+img: 
 importance: 3
 category: fun
 ---

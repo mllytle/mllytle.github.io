@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simiulating Electrohydrodynamically-Driven Flows
-description: Coming soon
+description: in progress
 img:
 importance: 3
 category: work
