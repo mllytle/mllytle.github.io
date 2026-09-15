@@ -2,7 +2,7 @@
 layout: page
 title: Implicit Bending
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/rhino.jpg
 importance: 1
 category: work
 related_publications: true
