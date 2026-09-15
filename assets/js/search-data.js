@@ -184,22 +184,22 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-implicit-bending",
           title: 'Implicit Bending',
-          description: "with background image",
+          description: "in progress",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-janus-vesicles",
           title: 'Janus Vesicles',
-          description: "COMING SOON",
+          description: "in progress",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-fluctuation-membranes",
-          title: 'Fluctuation Membranes',
-          description: "COMING SOON",
+            },},{id: "projects-fluctuating-membranes",
+          title: 'Fluctuating Membranes',
+          description: "in progress",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-simiulating-electrohydrodynamically-driven-flows",
           title: 'Simiulating Electrohydrodynamically-Driven Flows',
-          description: "Coming soon",
+          description: "in progress",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-climbing-service",
