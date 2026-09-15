@@ -36,4 +36,7 @@ I like math and rocks.
 
 Here are some useful links:
 * [Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+* [Online Encylopedia of Integer Sequences](https://oeis.org/)
+* [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
+* [Window Swap](https://www.window-swap.com/Window)
 
